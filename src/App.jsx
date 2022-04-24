@@ -7,7 +7,7 @@ import './App.css';
 
 import Test from './Components/Test';
 import Context from './Components/Why' 
-
+import 'bootstrap/dist/css/bootstrap.css'
 
 
 function App() {
