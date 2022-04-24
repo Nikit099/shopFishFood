@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopFishFood/static/css/main.c6c2eb34.css",
+    "main.js": "/shopFishFood/static/js/main.994cb0eb.js",
+    "index.html": "/shopFishFood/index.html",
+    "main.c6c2eb34.css.map": "/shopFishFood/static/css/main.c6c2eb34.css.map",
+    "main.994cb0eb.js.map": "/shopFishFood/static/js/main.994cb0eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c2eb34.css",
+    "static/js/main.994cb0eb.js"
+  ]
+}
